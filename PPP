@@ -153,12 +153,12 @@ body, html {
 }
 
 /* Images used */
-.img1 { background-image: url("img_snow.jpg"); }
-.img2 { background-image: url("img_girl.jpg"); }
-.img3 { background-image: url("img_lights.jpg"); }
-.img4 { background-image: url("img_nature.jpg"); }
-.img5 { background-image: url("img_forest.jpg"); }
-.img6 { background-image: url("img_woods.jpg"); }
+.img1 { background-image: url("img1.jpg"); }
+.img2 { background-image: url("img2.heic"); }
+.img3 { background-image: url("img3.jpg"); }
+.img4 { background-image: url("img4.jpg"); }
+.img5 { background-image: url("img5.jpg"); }
+.img6 { background-image: url("img6.jpg"); }
 
 /* Position text in the middle of the page/image */
 .bg-text {
